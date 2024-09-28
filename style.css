@@ -1,0 +1,55 @@
+.footer
+{
+position: fixed;
+color: rgb(1, 161, 253);
+bottom: 0;
+width: 100%;
+background-color: rgb(2, 254, 254);
+line-height: 3;
+text-align: center;
+box-shadow: inset 3px 3px 5px black;
+font-size: 21px;
+text-shadow: 2px 2px rgb(0, 13, 255);
+letter-spacing: 2px;
+
+}
+
+.test_image_and_result
+{
+    background-color: grey;
+    border-radius: 30px;
+}
+
+.title
+{
+    color: red;
+}
+
+.google
+{
+        color: rgb(2, 208, 2);
+}
+
+.mobilenet
+{
+    background-color: rgb(1, 75, 139);
+    color: lightcyan;
+    width: 150px;
+    font-family: "Gowun Batang", serif;
+}
+
+.vs
+{
+    color: orange;
+}
+
+.google_lens_img
+{
+width: 100px;
+height: 100px;
+}
+
+.text
+{
+    color: blueviolet;
+}
